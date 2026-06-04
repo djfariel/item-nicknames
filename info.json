@@ -1,0 +1,14 @@
+{
+  "name": "item-nicknames",
+  "version": "0.1.0",
+  "title": "Item Nicknames",
+  "author": "djfariel",
+  "factorio_version": "2.0",
+  "description": "Adds hidden nickname search terms to item names.",
+  "package": {
+    "ignore": [".git/**", ".idea/**", "**/*.zip"],
+    "readme": "README.md",
+    "sync_portal_details": true,
+    "zipLocation": "outside"
+  }
+}

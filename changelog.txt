@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 03. 06. 2026
+  Info:
+    - Initial release: IN1 nicknames, runtime editor, nickname packs API, and mod author APIs.
