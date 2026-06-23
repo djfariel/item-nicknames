@@ -1,5 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-06-23
+  Changes:
+    - Updated to support Factorio 2.1
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2026-06-04
+  Changes:
+    - Improve mod page. No mod changes.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
-Date: 03. 06. 2026
+Date: 2026-06-04
   Info:
     - Initial release: IN1 nicknames, runtime editor, nickname packs API, and mod author APIs.

@@ -1,8 +1,6 @@
 # Item Nicknames
 
-Factorio 2.0 mod that appends invisible nickname/search terms to prototype names.
-
-Ship `thumbnail.png` in the mod root next to `info.json` so the in-game mod browser and Mod Portal show the mod icon (no `info.json` field; Factorio loads `thumbnail.png` automatically).
+Factorio mod that appends invisible nickname/search terms to prototype names.
 
 ## Format (IN1)
 
